@@ -7,4 +7,5 @@ langchain-huggingface
 sentence-transformers
 chromadb
 pypdf
+docx2txt
 python-dotenv
